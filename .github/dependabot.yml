@@ -4,8 +4,9 @@ updates:
   - package-ecosystem: npm
     directory: /
     schedule:
-      interval: daily
+      interval: yearly
     assignees:
       - aecomet
     labels:
       - dependabottest
+    open-pull-requests-limit: 0
